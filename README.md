@@ -4,7 +4,7 @@ In this project, let's build a **Click Counter** by applying the concepts we hav
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/click-counter-output.gif" alt="click counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src = "https://drive.google.com/uc?id=1zrcsTXD1EWvLgFUGOm-M9bkf3Vxltbek" alt="click counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
